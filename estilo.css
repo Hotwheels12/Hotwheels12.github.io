@@ -22,17 +22,19 @@
 	width:80%;
 	font-size:20;
 	margin:auto;
-	text-align:center;
 }
 #izquierda{
 	background-color:#999999;
 	float:left;
 	width:20%;
-	text-align:center;
 	margin:auto;
 }
 #piepagina{
 	clear:both;
 	background-color:#ffccff;
 	margin:auto;
+}
+#image{
+	margin:100px;
+	padding:100px;
 }
