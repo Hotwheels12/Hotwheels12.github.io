@@ -14,16 +14,18 @@
 	background-color:#999999;
 	text-align:left;
 	width:30%;
+	margin:auto;
 }
 #derecha{
 	float:right;
-	background-color:#ffff99;
+	background-color:#999999;
 	width:80%;
 	font-size:20;
 	margin:auto;
+	text-align:center;
 }
 #izquierda{
-	background-color:#ffff99;
+	background-color:#999999;
 	float:left;
 	width:20%;
 	text-align:center;
