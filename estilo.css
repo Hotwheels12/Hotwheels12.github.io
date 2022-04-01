@@ -8,6 +8,7 @@
 	background-color:#996699;
 	align-self: center;
 	font-family:courier;
+	margin:auto;
 }
 #menu1{
 	background-color:#999999;
@@ -19,14 +20,17 @@
 	background-color:#ffff99;
 	width:80%;
 	font-size:20;
+	margin:auto;
 }
 #izquierda{
 	background-color:#ffff99;
 	float:left;
 	width:20%;
 	text-align:center;
+	margin:auto;
 }
 #piepagina{
 	clear:both;
 	background-color:#ffccff;
+	margin:auto;
 }
