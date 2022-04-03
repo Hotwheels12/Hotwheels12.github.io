@@ -36,9 +36,6 @@
 	margin:auto;
 }
 #image{
-	margin:100px;
-	padding:100px;
-}
-#text{
-        margin:auto;
+	width:100px;
+	height:100px;
 }
