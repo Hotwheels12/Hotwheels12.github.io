@@ -1,8 +1,4 @@
-.remove-bg{
-	float:left;
-	filter:brightness(1.1);
-	mix-blend-mode:multiply;
-}
+#contenedor{
 	width:100%;
 	margin:auto;
 	background-color:#999999;
@@ -30,15 +26,12 @@
 #izquierda{
 	background-color:#999999;
 	float:left;
-	width:20%;
 	margin:auto;
+	width:100px;
+	height:100px;
 }
 #piepagina{
 	clear:both;
 	background-color:#ffccff;
 	margin:auto;
-}
-#image{
-	width:100px;
-	height:100px;
 }
